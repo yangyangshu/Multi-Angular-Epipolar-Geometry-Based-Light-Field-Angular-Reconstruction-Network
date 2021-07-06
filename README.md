@@ -39,6 +39,6 @@ Set the testing data directory (opts.test_dir) in init_opts.m
 - epoch         : model epoch to test
 - len           : controls the size of the sub-lightfield, value depends on GPU memory
    
-### Authors of the Paper
+### Please cite our paper if you use this code, thank you!
 
- Deyang Liu , Yan Huang , Qiang Wu , Ran Ma, and Ping An 
+D. Liu, Y. Huang, Q. Wu, R. Ma and P. An, "Multi-Angular Epipolar Geometry Based Light Field Angular Reconstruction Network," in IEEE Transactions on Computational Imaging, vol. 6, pp. 1507-1522, 2020, doi: 10.1109/TCI.2020.3037413. 
