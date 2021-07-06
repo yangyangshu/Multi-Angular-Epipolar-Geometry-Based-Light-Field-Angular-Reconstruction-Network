@@ -7,7 +7,7 @@ Fast Light Field Reconstruction With Deep Coarse-To-Fine Modeling of Spatial-Ang
 
 ### Description
 
-This code is used to generate an 7 ¡Á 7 densely-sampled LF with 3 ¡Á 3 LF views as inputs
+This code is used to generate an 7 x 7 densely-sampled LF with 3 x 3 LF views as inputs
 
 ### Requirements and Dependencies
 
